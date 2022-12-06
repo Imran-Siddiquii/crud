@@ -22,7 +22,7 @@ function App() {
    },
    {
     Id:4,
-     Name : "Kumar",
+     Name : "Kmar",
      Email:"kumar323@gmail.com",
      Adress: "544 shanti street",
    },
