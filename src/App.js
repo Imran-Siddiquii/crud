@@ -16,7 +16,7 @@ function App() {
    },
    {
     Id:3,
-     Name : "Kumar",
+     Name : "Kumr",
      Email:"kumar323@gmail.com",
      Adress: "544 shanti street"
    },
